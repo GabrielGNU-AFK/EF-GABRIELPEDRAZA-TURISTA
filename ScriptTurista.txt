@@ -1,0 +1,16 @@
+insert  INTO `efmicroservice`.`turista`
+(
+`direccion`,
+`nombre_turista`,
+`nro_celular`)
+VALUES
+("Av Siempre viva 123","Carlos Mars","921141000");
+
+
+insert  INTO `efmicroservice`.`turista`
+(
+`direccion`,
+`nombre_turista`,
+`nro_celular`)
+VALUES
+("Robles 3oo","Mary","951147145");
